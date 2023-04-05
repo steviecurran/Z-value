@@ -1,5 +1,5 @@
 # Z-value
-Python code for calculating the significance (Z-value) from the p-value.
+Calculate the significance (Z-value) from the p-value.
 
 Simple code which saves using those confusing Z-value tables at the back of your stats book.
 
